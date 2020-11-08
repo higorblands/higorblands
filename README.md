@@ -18,6 +18,8 @@ Profissional com mais de 3 anos de experiência na área de T.I com passagens po
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-549FDE?style=flat-square&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-549FDE?style=flat-square&logo=Bootstrap&logoColor=white)
+![Materialize](https://img.shields.io/badge/-Materialize-549FDE?style=flat-square&logo=Materialize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
