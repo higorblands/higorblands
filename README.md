@@ -1,16 +1,36 @@
-### Hi there 👋
+# :man_technologist: Higor H Blandes
+[![Linkedin Badge](https://img.shields.io/badge/-Higor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
+[![Outlook Badge](https://img.shields.io/badge/-higorblands@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
 
-<!--
-**higorblands/higorblands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
-Here are some ideas to get you started:
+<details>
+<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Sobre mim
+Sou graduando em Banco de Dados através da Faculdade SENAC PE, formando em Programador WEB certificado pelo SENAC de Caruaru e desenvolvedor FullStack Bootcamp do AppBrewery.
+
+Profissional com mais de 3 anos de experiência na área de T.I com passagens por empresas como Accenture do Brasil, também em outros subsistemas Tecnologia, na realização de suporte ao usuário, treinamento e desenvolvimento de recurso, supervisão técnica, gestão de incidentes e crises.
+</details>
+
+### 💼 Trabalho com
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-549FDE?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2B8AB6?style=flat-square&logo=yarn&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+
+### 💻 Estudando atualmente
+![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
