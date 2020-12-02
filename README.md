@@ -1,4 +1,4 @@
-# :man_technologist: Higor H Blandes
+# Higor H Blandes
 [![Linkedin Badge](https://img.shields.io/badge/-Higor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
 [![Hotmail Badge](https://img.shields.io/badge/-higorblands@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
 
