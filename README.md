@@ -33,5 +33,5 @@ Profissional com mais de 3 anos de experiência na área de T.I com passagens po
 
 ### 💻 Estudando atualmente
 ![ObejectPascal](https://img.shields.io/badge/ObecjectPascal-7642d2.svg)
-![Microsoft SQL Server](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&logoColor=white)
 
