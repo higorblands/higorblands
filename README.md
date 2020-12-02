@@ -1,6 +1,6 @@
 # :man_technologist: Higor H Blandes
 [![Linkedin Badge](https://img.shields.io/badge/-Higor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-MailMe-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
