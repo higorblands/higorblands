@@ -32,9 +32,6 @@ Profissional com mais de 3 anos de experiência na área de T.I com passagens po
 
 
 ### 💻 Estudando atualmente
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
 ![ObejectPascal](https://img.shields.io/badge/ObecjectPascal-7642d2.svg)
+![Microsoft SQL Server](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&style=for-the-badge)
 
