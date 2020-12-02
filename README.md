@@ -1,4 +1,4 @@
-# Higor H Blandes
+# :man_technologist: Higor H Blandes
 [![Linkedin Badge](https://img.shields.io/badge/-Higor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
 [![Hotmail Badge](https://img.shields.io/badge/-higorblands@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
 
@@ -33,5 +33,5 @@ Profissional com mais de 3 anos de experiência na área de T.I com passagens po
 
 ### 💻 Estudando atualmente
 ![ObejectPascal](https://img.shields.io/badge/ObecjectPascal-7642d2.svg)
-![Microsoft SQL Server](https://img.shields.io/badge/style-for--the--badge-green?logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft SQL Server?logo=microsoft-sql-server&logoColor=white)
 
