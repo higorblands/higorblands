@@ -1,6 +1,5 @@
-# :man_technologist: Higor H Blandes
-[![Linkedin Badge](https://img.shields.io/badge/-Higor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
-[![Hotmail Badge](https://img.shields.io/badge/-MailMe-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
+# :man_technologist: Olá
+
 
 ### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
@@ -8,30 +7,20 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Sou graduando em Banco de Dados através da Faculdade SENAC PE, formando em Programador WEB certificado pelo SENAC de Caruaru e desenvolvedor FullStack Bootcamp do AppBrewery.
-
-Profissional com mais de 3 anos de experiência na área de T.I com passagens por empresas como Accenture do Brasil, também em outros subsistemas Tecnologia, na realização de suporte ao usuário, treinamento e desenvolvimento de recurso, supervisão técnica, gestão de incidentes e crises.
+Sou desenvolvedor FullStack de software e moro em Recife. Atualmente trabalho com Object Pascal através da IDE Delphi na Echo Informática. Antes disso, eu passei pela Accenture do Brasil, Governo de Pernmabuco SEC Mulher.
+Eu gosto de me envolver em eventos e comunidades, principalmente nos que são focados na inclusão de pessoas na tecnologia.
+Além das linguagens de programação, eu sempre tive interesse por dados e informação. Por conta disto, decidi estudar Banco de Dados, no qual estarei me formando em 2022.
 </details>
 
-### 💼 Trabalho com
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-549FDE?style=flat-square&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-549FDE?style=flat-square&logo=Bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/-Materialize-549FDE?style=flat-square&logo=Materialize&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Postgresql](https://img.shields.io/badge/-Postgresql-32648D?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/-Yarn-2B8AB6?style=flat-square&logo=yarn&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+<details>
+<summary> <b> Know more about me ? </b> <i>Click to see the english version</i> </summary>
 
+### 📖 About me
+I'm a FullStack software developer and I live in Recife. I currently work with Object Pascal through IDE Delphi at Echo Informática. Before that, I worked at Accenture do Brasil, Government of Pernmabuco SEC Mulher.
+I like to get involved in events and communities, especially those that are focused on including people in technology.
+In addition to programming languages, I have always been interested in data and information. Because of this, I decided to study Database, which I will be graduating in 2022.
+</details>
 
-### 💻 Estudando atualmente
-![ObejectPascal](https://img.shields.io/badge/ObecjectPascal-7642d2.svg)
-![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-00758?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
+### 💻 Find me
+[![Linkedin Badge](https://img.shields.io/badge/-Higor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
+[![Hotmail Badge](https://img.shields.io/badge/-MailMe-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)or=white)
