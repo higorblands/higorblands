@@ -31,16 +31,16 @@ Version Control
 
 ### Seja bem vindo ao meu repositório!
 
-Sou desenvolvedor FullStack de software e moro em Recife. Atualmente trabalho com Object Pascal através da IDE Delphi na Echo Informática. Antes disso, passei pela Accenture do Brasil, Governo de Pernmabuco SEC Mulher.
-Gosto de me envolver em eventos e comunidades, principalmente nos que são focados na inclusão de pessoas na tecnologia, meus hobies são correr pedalar.
+Sou desenvolvedor FullStack de software e moro em Recife. Atualmente trabalho com Object Pascal através da IDE Delphi na Echo Informática. Antes disso, passei pela Accenture do Brasil, Governo de Pernambuco SEC Mulher.
+Gosto de me envolver em eventos e comunidades, principalmente nos que são focados na inclusão de pessoas na tecnologia, meus hobbies são correr e pedalar.
 Além das linguagens de programação, eu sempre tive interesse por dados e informação. Por conta disto, decidi estudar Banco de Dados, no qual estarei me formando em março de 2023.
 
 <details>
 
 <summary><i>Click to see the english version</i> </summary>
 
-I'm a FullStack software developer and I live in Recife. I currently work with Object Pascal through IDE Delphi at Echo Informática. Before that, I worked at Accenture do Brasil, Government of Pernmabuco SEC Mulher.
-I like to get involved in events and communities, especially those that are focused on including people in technology.
+I'm a FullStack software developer and I live in Recife. I currently work with Object Pascal through IDE Delphi at Echo Informática. Before that, I worked at Accenture do Brasil, Government of Pernambuco SEC Mulher.
+I like to get involved in events and communities, especially those that are focused on including people in technology, my hobbies run and bike.
 In addition to programming languages, I have always been interested in data and information. Because of this, I decided to study Database, which I will be graduating in march 2023.
 
 </details>
