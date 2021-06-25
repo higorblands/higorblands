@@ -22,8 +22,6 @@ In addition to programming languages, I've always been interested in data and in
 </details>
 
 
-
-[![Github Badge Classes](https://img.shields.io/badge/-Github%20-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/higorblands)](https://github.com/higorblands)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=email&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
 
