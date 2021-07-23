@@ -3,23 +3,13 @@
 <div>  
   <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
 
-### Seja bem vindo ao meu repositório!
-
-Sou desenvolvedor fullstack e entusiasta BlockChain, moro em Recife - Pernambuco.
-Possuo passagens por empresas como Accenture do Brasil e Governo de Pernambuco Secretaria da Mulher.
-Gosto de me envolver em eventos e comunidades, principalmente nos que são focados na inclusão de pessoas na tecnologia, meus hobbies são correr e pedalar.
-Além das linguagens de programação, eu sempre tive interesse por dados e informação. Por conta disto, decidi estudar Banco de Dados, no qual estarei me formando em março de 2023.
-
-<details>
-
-<summary><i>Click to see the english version</i> </summary>
-
-I'am a fullstack developer and BlockChain enthusiast, I live in Recife - Pernambuco.
-I have worked for companies such as Accenture do Brasil and the Government of Pernambuco Secretariat for Women.
+### Hi everyone
+  
+BlockChain developer and enthusiast, I live in Recife - Pernambuco.
+I have worked for companies such as Accenture and the Government of Pernambuco Secretariat for Women.
 I like to get involved in events and communities, especially those that are focused on including people in technology, my hobbies are running and cycling.
+I am a pragmatic, empathetic person, focused on results and of course always open to new ideas.
 In addition to programming languages, I've always been interested in data and information. Because of this, I decided to study Database, which I will be graduating in March 2023.
-
-</details>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
