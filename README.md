@@ -1,7 +1,7 @@
 ### 👋
 
 <div>  
-  <img align="right" src="https://media.tenor.com/zRFh1MO6ErgAAAAC/zach-galifianakis-smile.gif"/>
+  <img align="right" src="https://media.tenor.com/-BVTO3qGx-MAAAAi/nobgnoddin.gif"/>
 
 ### Hi everyone
 
