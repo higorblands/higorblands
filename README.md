@@ -15,11 +15,6 @@ Outside the world of technology, I am passionate about running and cycling, acti
 
 With a few years of experience in IT and an approach that is always open to new challenges, I am excited to continue exploring the exciting opportunities that the Web3 era has to offer. Let's embark on this journey of innovation and growth together! 🚀
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Interesting stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higorblands&layout=compact)
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=email&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
 </div>  
